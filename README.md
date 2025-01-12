@@ -1,75 +1,31 @@
-## Hi there 👋 I'm Gourangi
+### Hi there 👋
 
-I am a developer who is passionate about Full Stack development. I mainly work on MERN Stack. Apart from that few tech that I enjoy working in are Python, JS, Tensorflow. I am also interested in AI ML
-<br/>
-<br/>
-Visitors <br/>
-[<img src ="https://profile-counter.glitch.me/suyashsonawane/count.svg" title="">](https://suyashsonawane.github.io/)
-<br/>
 
-Somethings about me:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=3000&width=400&height=33&color=44A3F7FF&lines=This+is+Kushal+Lahoti....;Nice+to+meet+you!)](https://git.io/typing-svg)
 
-- 💻 Working at <a href="https://www.browserstack.com/">BrowserStack</a> as Software Engineer
-- 💻 Worked as a Full Stack Intern at <a href="https://www.invisibly.com/">Invisibly</a>
-- 🦸‍♂️ Lead 2020 at Google Developer Student Club Pimpri Chinchwad College of Engineering
-- 🦸‍♂️ Microsoft Student Ambassador
-- 👨‍💻 Co-Founder of DevsCollab
-- 🔭 Worked on GANS for Fake Video Detection as AI Intern at CDAC
-- ⚡ Fun fact: Foodie, 日本語を学ぶ
-
-<details open>
-<summary>🤝 <b>To connect with me</b></summary>
+🔗 &nbsp;**Connect with me**
 
 <p>
- 
-[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://suyashsonawane.github.io/)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/SuyashYSonawane) 
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://towardsdatascience.com/@suyashsonawane)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/suyash-sonawane-44661417b/)
-
+  <a href="https://www.twitter.com/kushalnl7"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
+  <a href="https://www.linkedin.com/in/kushal-lahoti-238577170/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+  <a href="https://www.instagram.com/kushalnl_7/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>  
 </p>
 
-</details>
+- 🔭 I’m currently working on exploring new things in Tech and contributing to different **Open Source projects**.
+- 🌱 I’m currently learning **Clean & Efficient Coding Practices**.
+- 👯 I’m looking to collaborate on different Open Source Projects.
+- 👨🏻‍💻 I'm curious about **Machine Learning**, **Artificial Intelligence** and open for collaborations in this domain.
+- 📫 Feel free to reach me through my **[Website](https://kushallahoti.netlify.app)** or **[Linkedin](https://www.linkedin.com/in/kushal-lahoti-238577170/)**.
 
----
-
-<details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
-
-<br>
-
-<p align>
-  <img src = "https://github-readme-stats.vercel.app/api?username=suyashsonawane&count_private=true">
-  <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=suyashsonawane&hide=css,js,html&theme=tokyonight"> -->
-</p>
-
-</details>
+### 📝 Recent Articles   
+- [Text File Compression And Decompression Using Huffman Coding](https://www.geeksforgeeks.org/text-file-compression-and-decompression-using-huffman-coding/)
+- [How To Import Data From a CSV File in MySQL?](https://www.geeksforgeeks.org/how-to-import-timestamp-from-a-csv-file-in-mysql/)
 
 
-<details>
- <summary><b>Summary 👨‍💻</b></summary>
-<br>
-    
-![Metrics](./github-metrics.svg)
-    
-</details>
-
-<details> 
- <summary><b>Checkout Some of my projects 🤗</b></summary>
+### 📈 Github Stats
+![Kushal's github stats](https://github-readme-stats.vercel.app/api?username=kushalnl7&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kushalnl7&&hide=scss,prolog&&langs_count=8&layout=compact&show_icons=true&theme=dark)](https://github.com/kushalnl7/github-readme-stats)
 
 <br>
-<a target="_blank" href="https://www.youtube.com/watch?v=kDGQDVmToVI">
-<img src="https://img.youtube.com/vi/kDGQDVmToVI/0.jpg" alt="drawing" width="200" alt="AI Dancer with GANS"/>
-</a>
 
-<a target="_blank" href="https://www.youtube.com/watch?v=1P_GYSFTXnc">
-<img src="https://img.youtube.com/vi/1P_GYSFTXnc/0.jpg" alt="drawing" width="200" alt="Driving AID"/>
-</a>
-
-<a target="_blank" href="https://www.youtube.com/watch?v=uECdm-_oA1I">
-<img src="https://img.youtube.com/vi/uECdm-_oA1I/0.jpg" alt="drawing" width="200" alt="Driving AID"/>
-</a>
-<br>
-</details>
-
----
+[comment]: <> (<img src="https://github-readme-activity-graph.cyclic.app/graph?username=kushalnl7&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>)
+[comment]: <> (<img src="https://gpvc.arturio.dev/kushalnl7" alt="profile views">)
